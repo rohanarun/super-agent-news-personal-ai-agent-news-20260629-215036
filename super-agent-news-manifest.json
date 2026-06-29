@@ -1,0 +1,35 @@
+{
+  "citations": [
+    "[darkreading.com](https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft)",
+    "[cryptobriefing.com](https://cryptobriefing.com/agentjacking-attack-ai-coding-agents/)",
+    "[bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/)",
+    "[bwbusinessworld.com](https://www.bwbusinessworld.com/article/60-Of-Indian-Consumers-Want-Personal-AI-Agents-Highest-In-Asia-Pacific-Adobe-Report/29-06-2026-493216/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[forbes.com](https://www.forbes.com/sites/bernardmarr/2026/06/27/gemini-35-flash-computer-use-everything-we-know-so-far/)",
+    "[tech-times.com](https://www.techtimes.com/articles/309876/20260629/grok-45-enters-private-beta-spacex-tesla.htm)",
+    "[cryptobriefing.com](https://cryptobriefing.com/xai-grok-voice-apis-vercel-ai-gateway/)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=1120px/2.4lines; AIDA=pass; density_check=grid-auto-flow:dense present; label_sweep=competitors mentioned; button_contrast=black/white pills verified",
+  "generated_at": "2026-06-29T21:50:43.214318+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A continuously updated editorial brief for buyers and builders tracking personal AI agents \u2014 from ChatGPT and Gemini\u2019s push into computer use, to Grok\u2019s rapid iteration and Siri\u2019s platform constraints \u2014 with a clear Super perspective on why durable computer\u2011operating agents with a reusable computer-use cache matter."
+}
